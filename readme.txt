@@ -1,4 +1,4 @@
-=== Woo Force Coupon ===
+=== Force Coupon for WooCommerce ===
 Contributors: kowsar89
 Tags: woocommerce, woo, coupon, force, checkout
 Requires at least: 3.0.1
@@ -21,14 +21,14 @@ You can configure the error notice text from "WooCommerce>Force Coupon" menu fro
 = From your WordPress dashboard =
 
 1. Visit 'Plugins > Add New'
-2. Search for 'Woo Force Coupon'
-3. Activate 'Woo Force Coupon' from your Plugins page.
+2. Search for 'Force Coupon for WooCommerce'
+3. Activate 'Force Coupon for WooCommerce' from your Plugins page.
 
 = From WordPress.org =
 
-1. Download 'Woo Force Coupon'.
+1. Download 'Force Coupon for WooCommerce'.
 2. Upload the 'woo-force-coupon' folder to your '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-3. Activate 'Woo Force Coupon' from your Plugins page.
+3. Activate 'Force Coupon for WooCommerce' from your Plugins page.
 
 After that you can configure the plugin settings from "WooCommerce>Force Coupon" menu from admin panel.
 

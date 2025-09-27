@@ -43,14 +43,14 @@ class FOA_Woo_Force_Coupon_Admin {
     }
 
     public function admin_menu() {
-        add_submenu_page( 'woocommerce', 'Woo Force Coupon', 'Force Coupon', 'manage_options', $this->plugin_slug, array($this, 'plugin_page') );
+        add_submenu_page( 'woocommerce', 'Force Coupon for WooCommerce', 'Force Coupon', 'manage_options', $this->plugin_slug, array($this, 'plugin_page') );
     }
 
     public function get_settings_sections() {
         $sections = array(
             array(
                 'id' => 'foa_woo_force_coupon',
-                'title' => __( 'Woo Force Coupon', 'woo-force-coupon' )
+                'title' => __( 'Force Coupon for WooCommerce', 'woo-force-coupon' )
             )
         );
 

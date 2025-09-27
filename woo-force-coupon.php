@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Woo Force Coupon
+ * Plugin Name: Force Coupon for WooCommerce
  * Plugin URI: http://kowsarhossain.com/
  * Description: A lightweight WooCommerce based plugin to force the customer to enter a coupon code during checkout
  * Version: 1.0.0

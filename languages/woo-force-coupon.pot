@@ -1,8 +1,8 @@
-# Copyright (C) 2015 Woo Force Coupon
-# This file is distributed under the same license as the Woo Force Coupon package.
+# Copyright (C) 2015 Force Coupon for WooCommerce
+# This file is distributed under the same license as the Force Coupon for WooCommerce package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Woo Force Coupon 1.0.0\n"
+"Project-Id-Version: Force Coupon for WooCommerce 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-force-coupon\n"
 "POT-Creation-Date: 2015-12-21 17:42:57+00:00\n"
 "MIME-Version: 1.0\n"
@@ -16,10 +16,10 @@ msgstr ""
 msgid "Settings"
 msgstr ""
 
-#. #-#-#-#-#  plugin.pot (Woo Force Coupon 1.0.0)  #-#-#-#-#
+#. #-#-#-#-#  plugin.pot (Force Coupon for WooCommerce 1.0.0)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: admin/class-woo-force-coupon-admin.php:53
-msgid "Woo Force Coupon"
+msgid "Force Coupon for WooCommerce"
 msgstr ""
 
 #: admin/class-woo-force-coupon-admin.php:70
