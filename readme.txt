@@ -38,7 +38,7 @@ After that you can configure the plugin settings from "WooCommerce>Force Coupon"
 
 == Changelog ==
 
-= 1.0.1 - Sep 28, 2025 =
+= 1.0.1: Sep 28, 2025 =
 * Tweak: Plugin name updated
 
 = 1.0.0: December 20, 2015 =
