@@ -3,7 +3,7 @@ Contributors: kowsar89
 Tags: woocommerce, woo, coupon, force, checkout
 Requires at least: 3.0.1
 Tested up to: 5.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -37,5 +37,9 @@ After that you can configure the plugin settings from "WooCommerce>Force Coupon"
 2. In checkout page, when users will place an order without entering any coupon code, they'll see an error notice.
 
 == Changelog ==
+
+= 1.0.1 - Sep 28, 2025 =
+* Tweak: Plugin name updated
+
 = 1.0.0: December 20, 2015 =
 * Initial release
